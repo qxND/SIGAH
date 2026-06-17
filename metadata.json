@@ -1,0 +1,5 @@
+{
+  "name": "SIGAH - Sistema Integrado de Gestão Acadêmica Horizonte",
+  "description": "Sistema web para controle acadêmico e administrativo básico, incluindo gestão de alunos, professores, disciplinas, turmas e matrículas.",
+  "requestFramePermissions": []
+}
